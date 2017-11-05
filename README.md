@@ -1,6 +1,6 @@
 # Nook Glowlight Plus (BNRV510) device tree
 
-**state**: TWRP compiles, no display output;
+**state**: boots inside TWRP, adb/mtp work, no display output;
 
 #### TWRP build instructions
 1) get TWRP sources from https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni
