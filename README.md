@@ -9,4 +9,5 @@
 4) . build/envsetup.sh
 5) breakfast BNRV510
 6) make j2 recoveryimage
+
 if everything is successful you should find build recovery by path <twrp_repo>/out/target/product/BNRV510/recovery.img
