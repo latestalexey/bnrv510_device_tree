@@ -1,0 +1,3 @@
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/BNRV510.mk \
+    $(LOCAL_DIR)/omni_BNRV510.mk
