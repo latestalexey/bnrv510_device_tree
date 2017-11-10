@@ -10,7 +10,7 @@ endif
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/kernel:kernel \
-    $(LOCAL_PATH)/recovery.fstab:root/recovery.fstab
+    $(LOCAL_PATH)/recovery/root/init.recovery.E60QD0.rc:root/init.recovery.E60QD0.rc
 
 $(call inherit-product, build/target/product/full.mk)
 
