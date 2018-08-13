@@ -12,6 +12,8 @@ TWRP builds and is fully functional (hopefully).
 
 ### How to enter recovery
 consequently interupt boot 5 times
+or
+in cmd do `adb reboot recovery`
 
 ### How to enter fastboot
 1) in cmd do `adb reboot fastboot`
