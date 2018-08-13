@@ -1,5 +1,5 @@
 # Inherit device configuration
-$(call inherit-product, device/NOOK/BNRV510/BNRV510.mk)
+$(call inherit-product, build/target/product/full.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := BNRV510
